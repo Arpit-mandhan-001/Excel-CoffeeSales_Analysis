@@ -1,4 +1,5 @@
  # ☕Coffee Sales Analysis Dashboard
+[Preview](https://1drv.ms/x/c/9156208ad889c654/EXGzVlxi42VDsDFhHjn-hTQBGtRWIq1iCuRApHR0as5Sog?e=BbdfoQ)
 
 Welcome to the Coffee Sales Analysis Dashboard, a visual story of how coffee products perform across regions, time, and customer preferences.
 
